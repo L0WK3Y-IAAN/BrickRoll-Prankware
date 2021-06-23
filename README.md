@@ -1,4 +1,5 @@
 # BrickRoll-Prankware
+## Basic virus that blocks user peripheral input and opens browser tabs leading to rickrolled.com
 
 ```
  ________________ 
