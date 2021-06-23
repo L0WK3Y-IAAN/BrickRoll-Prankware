@@ -1,5 +1,5 @@
 /*
-Basic virus that blocks user peripheral input and opens browser tabs leading to rickrolled.com
+A harmless basic program that blocks the users peripheral inputs and opens browser tabs leading to rickrolled.com
  ________________ 
 |  ____________  |
 | | BRICK ROLL | |
