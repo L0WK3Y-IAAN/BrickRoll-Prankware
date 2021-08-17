@@ -1,4 +1,4 @@
-# BrickRoll-Prankware
+# BrickRoll-Prankware (For Education Purposes)
 ## A harmless basic program that blocks the users peripheral inputs and opens browser tabs leading to rickrolled.com
 
 ```
